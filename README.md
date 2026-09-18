@@ -1,4 +1,4 @@
-# CampusConnect: An Integrated Database Solution for University Event Management
+# CampusConnect : An Integrated Database Solution for University Event Management
 
 CampusConnect is a MySQL database design for managing university events, venues, users, registrations, and attendee feedback. The project demonstrates relational modeling, primary and foreign keys, uniqueness constraints, validation checks, triggers, stored procedures, views, sample data, and reporting queries.
 
